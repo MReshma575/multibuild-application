@@ -34,4 +34,4 @@ Docker image builds · Kubernetes Pod/Service manifests · container startup scr
 
 ---
 
-*Part of my DevOps portfolio — see my [profile](https://github.com/MReshma575) for Terraform/EKS and observability projects.*
+*More projects — Terraform/EKS and observability — on my [profile](https://github.com/MReshma575).*
